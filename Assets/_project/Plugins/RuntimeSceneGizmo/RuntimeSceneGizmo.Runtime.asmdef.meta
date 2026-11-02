@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 162424425d0f5ff40bcf275d60a5ff7a
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123040
+  packageName: Runtime Scene Gizmo
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/RuntimeSceneGizmo/RuntimeSceneGizmo.Runtime.asmdef
+  uploadId: 589174

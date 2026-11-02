@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c3fc3e21babccd4aab5d08940bd77f3
+timeCreated: 1563707092
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123040
+  packageName: Runtime Scene Gizmo
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/RuntimeSceneGizmo/Meshes/GreenGizmoCone.asset
+  uploadId: 589174

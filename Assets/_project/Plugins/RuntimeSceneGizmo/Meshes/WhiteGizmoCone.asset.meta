@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7c07f3bc01d23ec46bbda44610f2cc4b
+timeCreated: 1563707091
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123040
+  packageName: Runtime Scene Gizmo
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/RuntimeSceneGizmo/Meshes/WhiteGizmoCone.asset
+  uploadId: 589174

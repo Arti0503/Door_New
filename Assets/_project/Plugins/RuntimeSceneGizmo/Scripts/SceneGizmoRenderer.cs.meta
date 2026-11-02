@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 757f158e5e4b3c641ad93496922f0ce5
+timeCreated: 1531244369
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123040
+  packageName: Runtime Scene Gizmo
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/RuntimeSceneGizmo/Scripts/SceneGizmoRenderer.cs
+  uploadId: 589174

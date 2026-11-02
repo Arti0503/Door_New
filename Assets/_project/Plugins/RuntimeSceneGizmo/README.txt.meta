@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b7912db0ea09ec45bde4ba7e4b0c8cb
+timeCreated: 1563308679
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123040
+  packageName: Runtime Scene Gizmo
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/RuntimeSceneGizmo/README.txt
+  uploadId: 589174
